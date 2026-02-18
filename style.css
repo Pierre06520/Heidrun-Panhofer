@@ -571,9 +571,10 @@ a { color: inherit; text-decoration: none; }
   flex-shrink: 0;
 }
 .contact-icon-img {
-  width: 4rem;
+  width: 2.4rem;
   height: 2.4rem;
-  object-fit: contain;
+  object-fit: cover;
+  border-radius: 4px;
   display: block;
 }
 
